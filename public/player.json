@@ -1,0 +1,201 @@
+[
+  {
+    "id": 1,
+    "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p223094.png",
+    "player_name": "Erling Haaland",
+    "player_country": "Norway",
+    "playing_role": "Forward",
+    "rating": 9.7,
+    "price": 180,
+    "playing_style": "Clinical Finisher",
+    "bowling_style": "N/A"
+  },
+  {
+    "id": 2,
+    "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p109745.png",
+    "player_name": "Mohamed Salah",
+    "player_country": "Egypt",
+    "playing_role": "Forward",
+    "rating": 9.4,
+    "price": 120,
+    "playing_style": "Inside Forward",
+    "bowling_style": "N/A"
+  },
+  {
+    "id": 3,
+    "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p141746.png",
+    "player_name": "Kevin De Bruyne",
+    "player_country": "Belgium",
+    "playing_role": "Midfielder",
+    "rating": 9.5,
+    "price": 100,
+    "playing_style": "Playmaker",
+    "bowling_style": "N/A"
+  },
+  {
+    "id": 4,
+    "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p184029.png",
+    "player_name": "Marcus Rashford",
+    "player_country": "England",
+    "playing_role": "Forward",
+    "rating": 8.6,
+    "price": 90,
+    "playing_style": "Pace Dribbler",
+    "bowling_style": "N/A"
+  },
+  {
+    "id": 5,
+    "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p210243.png",
+    "player_name": "Bukayo Saka",
+    "player_country": "England",
+    "playing_role": "Winger",
+    "rating": 9.2,
+    "price": 130,
+    "playing_style": "Creative Attacker",
+    "bowling_style": "N/A"
+  },
+  {
+    "id": 6,
+    "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p90152.png",
+    "player_name": "Virgil van Dijk",
+    "player_country": "Netherlands",
+    "playing_role": "Defender",
+    "rating": 9.0,
+    "price": 75,
+    "playing_style": "Ball Playing Defender",
+    "bowling_style": "N/A"
+  },
+  {
+    "id": 7,
+    "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p58621.png",
+    "player_name": "Heung-Min Son",
+    "player_country": "South Korea",
+    "playing_role": "Forward",
+    "rating": 9.1,
+    "price": 95,
+    "playing_style": "Counter Attacker",
+    "bowling_style": "N/A"
+  },
+  {
+    "id": 8,
+    "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p116594.png",
+    "player_name": "Bruno Fernandes",
+    "player_country": "Portugal",
+    "playing_role": "Midfielder",
+    "rating": 8.9,
+    "price": 85,
+    "playing_style": "Creative Midfielder",
+    "bowling_style": "N/A"
+  },
+  {
+    "id": 9,
+    "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p232787.png",
+    "player_name": "Cole Palmer",
+    "player_country": "England",
+    "playing_role": "Midfielder",
+    "rating": 8.7,
+    "price": 70,
+    "playing_style": "Attacking Midfielder",
+    "bowling_style": "N/A"
+  },
+  {
+    "id": 10,
+    "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p199439.png",
+    "player_name": "Declan Rice",
+    "player_country": "England",
+    "playing_role": "Midfielder",
+    "rating": 9.0,
+    "price": 110,
+    "playing_style": "Defensive Midfielder",
+    "bowling_style": "N/A"
+  },
+  {
+    "id": 11,
+    "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p37605.png",
+    "player_name": "Raheem Sterling",
+    "player_country": "England",
+    "playing_role": "Winger",
+    "rating": 8.3,
+    "price": 60,
+    "playing_style": "Fast Dribbler",
+    "bowling_style": "N/A"
+  },
+  {
+    "id": 12,
+    "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p177815.png",
+    "player_name": "Martin Ødegaard",
+    "player_country": "Norway",
+    "playing_role": "Midfielder",
+    "rating": 9.1,
+    "price": 105,
+    "playing_style": "Creative Playmaker",
+    "bowling_style": "N/A"
+  },
+  {
+    "id": 13,
+    "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p121160.png",
+    "player_name": "Allison Becker",
+    "player_country": "Brazil",
+    "playing_role": "Goalkeeper",
+    "rating": 9.3,
+    "price": 60,
+    "playing_style": "Sweeper Keeper",
+    "bowling_style": "N/A"
+  },
+  {
+    "id": 14,
+    "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p243569.png",
+    "player_name": "Phil Foden",
+    "player_country": "England",
+    "playing_role": "Midfielder",
+    "rating": 9.2,
+    "price": 125,
+    "playing_style": "Technical Dribbler",
+    "bowling_style": "N/A"
+  },
+  {
+    "id": 15,
+    "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p219961.png",
+    "player_name": "Alejandro Garnacho",
+    "player_country": "Argentina",
+    "playing_role": "Winger",
+    "rating": 8.4,
+    "price": 65,
+    "playing_style": "Explosive Winger",
+    "bowling_style": "N/A"
+  },
+  {
+    "id": 16,
+    "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p200724.png",
+    "player_name": "Kai Havertz",
+    "player_country": "Germany",
+    "playing_role": "Forward",
+    "rating": 8.5,
+    "price": 80,
+    "playing_style": "False Nine",
+    "bowling_style": "N/A"
+  },
+  {
+    "id": 17,
+    "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p148225.png",
+    "player_name": "Ederson",
+    "player_country": "Brazil",
+    "playing_role": "Goalkeeper",
+    "rating": 9.0,
+    "price": 55,
+    "playing_style": "Ball Playing Goalkeeper",
+    "bowling_style": "N/A"
+  },
+  {
+    "id": 18,
+    "player_image": "https://resources.premierleague.com/premierleague/photos/players/250x250/p204480.png",
+    "player_name": "James Maddison",
+    "player_country": "England",
+    "playing_role": "Midfielder",
+    "rating": 8.8,
+    "price": 75,
+    "playing_style": "Creative Midfielder",
+    "bowling_style": "N/A"
+  }
+ 
+]
